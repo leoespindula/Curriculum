@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(129, 129, 129, 0.652);
+}
+h1{
+    font-size: 40px;
+    text-align:center;
+}
+div.cabecalho{
+    position: absolute;
+    left: 250px;
+    top: 150px;
+    font-size: 25px;
+}
+div.info{
+    position: absolute;
+    left: 225px;
+    top: 330px;
+
+}
+p.contato:hover{
+    text-decoration: underline;
+}
+li{
+    font-size: 20px;
+}
+h3{
+    font-size: 28px;
+}
+li:hover{
+    font-weight: bold;
+}
