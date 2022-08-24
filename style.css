@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(210, 244, 224);
+    background-color: rgb(57, 59, 84);
+}
+*{
+    color: #fff;
 }
 div img#icone {
     position:relative;
@@ -56,13 +59,15 @@ div.popup-image{
     width: 100%;
     z-index: 100;
     display: none;
+    
 }
+
 div.popup-image span{
     position: absolute;
     top: 0; right: 10px;
     font-size: 60px;
     font-weight: bolder;
-    color: #fff;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     z-index: 100;
 }
