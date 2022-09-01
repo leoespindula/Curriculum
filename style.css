@@ -36,7 +36,7 @@ div.info{
 }
 p.contato:hover{
     text-decoration: underline;
-    font-size: 27px;
+    font-size: 26px;
     transition: 0.3s;
     cursor: pointer;
 
